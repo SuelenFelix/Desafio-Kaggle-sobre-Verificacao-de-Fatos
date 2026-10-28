@@ -20,3 +20,7 @@ poderão ajudar a automatizar processos de checagem e a combater a desinformaç�
 Este laboratório será uma boa oportunidade para aplicar técnicas de NLP e aprendizado de máquina
 em um contexto real e socialmente relevante.
 ```
+
+# Leaderboard
+
+<img width="1237" height="634" alt="image" src="https://github.com/user-attachments/assets/a7ea0502-8bf9-4c8c-9562-5603b39f3e8a" />
